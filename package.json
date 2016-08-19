@@ -1,0 +1,41 @@
+{
+  "name": "sales md",
+  "version": "1.0.0",
+  "description": "Manage Sales MD",
+  "cordova": {
+    "id": "com.lukisongroup.lukisonsalescross",
+    "platforms": [
+      "ios",
+      "android",
+      "amazon-fireos",
+      "windows",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adem-team/cordova_crosswalk.git"
+  },
+  "keywords": [
+    "sales",
+    "lukison",
+    "cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-windows",
+    "cordova-browser"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.2.0"
+    }
+  ],
+  "author": "radumta",
+  "license": "Apache 2.4.12",
+  "bugs": {
+    "url": "https://github.com/adem-team/cordova_crosswalk/issues"
+  },
+  "homepage": "https://github.com/katzer/cordova-plugin-email-composer"
+}
